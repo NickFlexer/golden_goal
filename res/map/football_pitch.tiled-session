@@ -1,0 +1,43 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "pitch.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "pitch.tmx": {
+            "scale": 0.6264,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 280.17241379310343,
+                "y": 500.47892720306515
+            }
+        },
+        "pitch.tmx#Soccer01": {
+            "scaleInDock": 2.2163
+        }
+    },
+    "last.exportedFilePath": "/Users/nikolaykomarov/code/love/golden_goal_rl/res/map",
+    "last.imagePath": "/Users/nikolaykomarov/code/love/golden_goal_rl/res/tiles",
+    "map.height": 121,
+    "map.lastUsedExportFilter": "Lua files (*.lua)",
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 75,
+    "openFiles": [
+        "pitch.tmx"
+    ],
+    "project": "football_pitch.tiled-project",
+    "recentFiles": [
+        "pitch.tmx"
+    ],
+    "tileset.embedInMap": true,
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}
